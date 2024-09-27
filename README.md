@@ -1,4 +1,4 @@
-#Python_Project_Survival_Duration_Calculator
+# Python Project Survival Duration Calculator
 🕒 Duration of Survival Calculator
 Overview
 The Duration of Survival Calculator is a simple yet insightful Python script designed to calculate the total time a person has lived, expressed in various time units. This project explores how we perceive time by converting a given age into months, weeks, days, hours, minutes, and even seconds.
